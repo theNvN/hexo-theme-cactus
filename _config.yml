@@ -147,8 +147,8 @@ disqus:
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:
-  enabled: false
-  repo: owner/githubrepo
+  enabled: true
+  repo: theNvN/blog
   issue_term: pathname
   label: Comment
   theme: github-dark
@@ -156,7 +156,7 @@ utterances:
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
   enabled: false
-  id: UA-86660611-1
+  id: UA-234726354-1
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
