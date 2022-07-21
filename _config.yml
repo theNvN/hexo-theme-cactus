@@ -15,9 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  about: /about/
+  about: https://nvn.fyi
   articles: /archives/
-  projects: http://github.com/theNvN
+  projects: https://github.com/theNvN
 
 
 # Links to your social media accounts.
@@ -25,9 +25,9 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/theNvN
-  twitter: http://twitter.com/the_nvn
-  linkedin: http://linkedin.com/in/theNvN
+  github: https://github.com/theNvN
+  twitter: https://twitter.com/the_nvn
+  linkedin: https://linkedin.com/in/theNvN
   mail: mailto:thenvnsahu@gmail.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -82,7 +82,7 @@ logo:
   height: 50
   url: /images/logo.svg
   gravatar: false
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -155,7 +155,7 @@ utterances:
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
-  enabled: false
+  enabled: true
   id: UA-234726354-1
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
