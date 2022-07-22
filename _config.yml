@@ -80,7 +80,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/logo.svg
+  url: /images/logo.png
   gravatar: false
   grayout: false
 
@@ -128,8 +128,9 @@ rss: false
 open_graph:
   fb_app_id:
   fb_admins:
-  twitter_id: '947879558425878529'
+  twitter_id: 'the_nvn'
   google_plus:
+  image: /images/og.png # default og:image
 
 
 ##############################################################################
